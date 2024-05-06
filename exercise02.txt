@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Forests</title>
+</head>
+<body>
+<h1><center>Forests</ceneter></h1>
+<p>There are a lot of forests in Sri Lanka.Some of them are,</p<br>
+<ul type="disc">
+<li>Sinharaja forest</li>
+<li>Vilpathtuwa Forest</li>
+</ul>
+</body></html>
